@@ -1,0 +1,6 @@
+In the enter_code.php file, we create a form that asks the user to enter the code they received:
+<form action="reset_password.php" method="post">
+    <label for="code">Enter the code you received:</label>
+    <input type="text" id="code" name="code" required>
+    <button type="submit">Submit</button>
+</form>

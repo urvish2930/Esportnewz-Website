@@ -1,0 +1,6 @@
+Next, we create a form that asks the user to enter their email address:
+<form action="forgot_password.php" method="post">
+    <label for="email">Email address:</label>
+    <input type="email" id="email" name="email" required>
+    <button type="submit">Send code</button>
+</form>

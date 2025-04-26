@@ -1,0 +1,7 @@
+First, we need to create a database table to store the user's email address and the code that will be sent to them:
+CREATE TABLE users (
+    id INT(11) NOT NULL AUTO_INCREMENT,
+    email VARCHAR(255) NOT NULL,
+    code VARCHAR(50) NOT NULL,
+    PRIMARY KEY (id)
+);
