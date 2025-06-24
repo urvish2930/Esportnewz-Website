@@ -48,20 +48,25 @@ Esportnewz-Website/
 ├── process_register.php
 ├── register.php
 └── README.md
-📸 Screenshots
-✅ Replace these placeholders with your uploaded screenshot URLs (e.g., /assets/images/login.png)
 
-🏠 Homepage
 
-📝 Registration Page
+🏠 Homepage (https://github.com/urvish2930/Esportnewz-Website/blob/master/assets/indexpage.png?raw=true)
 
-🔐 Login Page
+    - article page (https://github.com/urvish2930/Esportnewz-Website/blob/master/assets/news%20article.png?raw=true)
 
-📩 Contact Page
+📝 Registration Page (https://github.com/urvish2930/Esportnewz-Website/blob/master/assets/register%20page.png?raw=true)
 
-🛠️ Admin Dashboard
+🔐 Login Page (https://github.com/urvish2930/Esportnewz-Website/blob/master/assets/login%20page.png?raw=true)
 
-📱 Tournament Page , Team page
+📩 Contact Page (https://github.com/urvish2930/Esportnewz-Website/blob/master/assets/contact%20us.png?raw=true)
+
+🛠️ Admin Dashboard (https://github.com/urvish2930/Esportnewz-Website/blob/master/assets/admin%20main%20page.png?raw=true)
+
+    - mange user (https://github.com/urvish2930/Esportnewz-Website/blob/master/assets/manage%20user(admin).png?raw=true)
+
+📱 Tournament Page (https://github.com/urvish2930/Esportnewz-Website/blob/master/assets/tournament%20main%20page.png?raw=true)
+
+    - Team page (https://github.com/urvish2930/Esportnewz-Website/blob/master/assets/team%20info.png?raw=true)
 
 ⚙️ How to Run Locally
 📦 Requirements
@@ -69,7 +74,7 @@ XAMPP (Apache + MySQL)
 
 Web browser
 
-Code editor (optional)
+Code editor 
 
 🧪 Steps
 Clone the repository
