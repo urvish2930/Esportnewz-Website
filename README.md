@@ -50,29 +50,14 @@ Esportnewz-Website/
 └── README.md
 
 
-🏠 Homepage  
-![Homepage](https://raw.githubusercontent.com/urvish2930/Esportnewz-Website/master/assets/indexpage.png)
+## 📷 Screenshots
 
-📝 Registration Page  
-![Registration](https://raw.githubusercontent.com/urvish2930/Esportnewz-Website/master/assets/register%20page.png)
 
-🔐 Login Page  
-![Login](https://raw.githubusercontent.com/urvish2930/Esportnewz-Website/master/assets/login%20page.png)
+### Homepage
+![homepage](https://github.com/urvish2930/Esportnewz-Website/blob/master/assets/indexpage.png?raw=true)
 
-📩 Contact Page  
-![Contact](https://raw.githubusercontent.com/urvish2930/Esportnewz-Website/master/assets/contact%20us.png)
-
-🛠️ Admin Dashboard  
-![Admin Dashboard](https://raw.githubusercontent.com/urvish2930/Esportnewz-Website/master/assets/admin%20main%20page.png)
-
-👤 Manage User  
-![Manage User](https://raw.githubusercontent.com/urvish2930/Esportnewz-Website/master/assets/manage%20user(admin).png)
-
-🏆 Tournament Page  
-![Tournament](https://raw.githubusercontent.com/urvish2930/Esportnewz-Website/master/assets/tournament%20main%20page.png)
-
-👥 Team Page  
-![Team Page](https://raw.githubusercontent.com/urvish2930/Esportnewz-Website/master/assets/team%20info.png)
+### article
+![Article](https://github.com/urvish2930/Esportnewz-Website/blob/master/assets/news%20article.png?raw=true)
 
 
 ⚙️ How to Run Locally
