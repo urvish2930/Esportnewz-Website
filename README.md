@@ -50,7 +50,7 @@ Esportnewz-Website/
 └── README.md
 
 
-🏠 Homepage (https://github.com/urvish2930/Esportnewz-Website/blob/master/assets/indexpage.png?raw=true)
+🏠 ![Homepage](https://raw.githubusercontent.com/urvish2930/Esportnewz-Website/master/assets/indexpage.png)
 
     - article page (https://github.com/urvish2930/Esportnewz-Website/blob/master/assets/news%20article.png?raw=true)
 
