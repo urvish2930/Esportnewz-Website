@@ -50,23 +50,30 @@ Esportnewz-Website/
 └── README.md
 
 
-🏠 ![Homepage](https://raw.githubusercontent.com/urvish2930/Esportnewz-Website/master/assets/indexpage.png)
+🏠 Homepage  
+![Homepage](https://raw.githubusercontent.com/urvish2930/Esportnewz-Website/master/assets/indexpage.png)
 
-    - article page (https://github.com/urvish2930/Esportnewz-Website/blob/master/assets/news%20article.png?raw=true)
+📝 Registration Page  
+![Registration](https://raw.githubusercontent.com/urvish2930/Esportnewz-Website/master/assets/register%20page.png)
 
-📝 Registration Page (https://github.com/urvish2930/Esportnewz-Website/blob/master/assets/register%20page.png?raw=true)
+🔐 Login Page  
+![Login](https://raw.githubusercontent.com/urvish2930/Esportnewz-Website/master/assets/login%20page.png)
 
-🔐 Login Page (https://github.com/urvish2930/Esportnewz-Website/blob/master/assets/login%20page.png?raw=true)
+📩 Contact Page  
+![Contact](https://raw.githubusercontent.com/urvish2930/Esportnewz-Website/master/assets/contact%20us.png)
 
-📩 Contact Page (https://github.com/urvish2930/Esportnewz-Website/blob/master/assets/contact%20us.png?raw=true)
+🛠️ Admin Dashboard  
+![Admin Dashboard](https://raw.githubusercontent.com/urvish2930/Esportnewz-Website/master/assets/admin%20main%20page.png)
 
-🛠️ Admin Dashboard (https://github.com/urvish2930/Esportnewz-Website/blob/master/assets/admin%20main%20page.png?raw=true)
+👤 Manage User  
+![Manage User](https://raw.githubusercontent.com/urvish2930/Esportnewz-Website/master/assets/manage%20user(admin).png)
 
-    - mange user (https://github.com/urvish2930/Esportnewz-Website/blob/master/assets/manage%20user(admin).png?raw=true)
+🏆 Tournament Page  
+![Tournament](https://raw.githubusercontent.com/urvish2930/Esportnewz-Website/master/assets/tournament%20main%20page.png)
 
-📱 Tournament Page (https://github.com/urvish2930/Esportnewz-Website/blob/master/assets/tournament%20main%20page.png?raw=true)
+👥 Team Page  
+![Team Page](https://raw.githubusercontent.com/urvish2930/Esportnewz-Website/master/assets/team%20info.png)
 
-    - Team page (https://github.com/urvish2930/Esportnewz-Website/blob/master/assets/team%20info.png?raw=true)
 
 ⚙️ How to Run Locally
 📦 Requirements
