@@ -27,18 +27,16 @@
 
 ## 📁 Project Structure
 
-```bash
 Esportnewz-Website/
 ├── admin/
-│   ├── admincontact.php
-│   └── admindata.php
+│ ├── admincontact.php
+│ └── admindata.php
 ├── assets/
-│   ├── css/
-│   │   └── style.css
-│   ├── images/
-│   │   └── (screenshots, logos, etc.)
-│   └── js/
-│       └── script.js
+│ ├── css/
+│ │ └── style.css
+│ ├── images/
+│ └── js/
+│ └── script.js
 ├── config.php
 ├── contact.php
 ├── index.html
@@ -49,35 +47,60 @@ Esportnewz-Website/
 ├── register.php
 └── README.md
 
-
-## 📷 Screenshots
-
-
-### Homepage
-![homepage](https://github.com/urvish2930/Esportnewz-Website/blob/master/assets/indexpage.png?raw=true)
-
-### article
-![Article](https://github.com/urvish2930/Esportnewz-Website/blob/master/assets/news%20article.png?raw=true)
-
-
-⚙️ How to Run Locally
-📦 Requirements
-XAMPP (Apache + MySQL)
-
-Web browser
-
-Code editor 
-
-🧪 Steps
-Clone the repository
-
-bash
+yaml
 Copy
 Edit
-git clone https://github.com/urvish2930/Esportnewz-Website.git
-Move to XAMPP htdocs
 
-makefile
+---
+
+## 🖼️ Screenshots
+
+### 🏠 Homepage  
+![Homepage](https://raw.githubusercontent.com/urvish2930/Esportnewz-Website/master/assets/indexpage.png)
+
+### 📃 News Article Page  
+![Article](https://raw.githubusercontent.com/urvish2930/Esportnewz-Website/master/assets/news%20article.png)
+
+### 📝 Registration Page  
+![Registration](https://raw.githubusercontent.com/urvish2930/Esportnewz-Website/master/assets/register%20page.png)
+
+### 🔐 Login Page  
+![Login](https://raw.githubusercontent.com/urvish2930/Esportnewz-Website/master/assets/login%20page.png)
+
+### 📩 Contact Page  
+![Contact](https://raw.githubusercontent.com/urvish2930/Esportnewz-Website/master/assets/contact%20us.png)
+
+### 🛠️ Admin Dashboard  
+![Admin Dashboard](https://raw.githubusercontent.com/urvish2930/Esportnewz-Website/master/assets/admin%20main%20page.png)
+
+### 👥 Manage Users (Admin Panel)  
+![Manage Users](https://raw.githubusercontent.com/urvish2930/Esportnewz-Website/master/assets/manage%20user(admin).png)
+
+### 🏆 Tournament Page  
+![Tournament Page](https://raw.githubusercontent.com/urvish2930/Esportnewz-Website/master/assets/tournament%20main%20page.png)
+
+### 👤 Team Info Page  
+![Team Page](https://raw.githubusercontent.com/urvish2930/Esportnewz-Website/master/assets/team%20info.png)
+
+---
+
+## ⚙️ How to Run Locally
+
+### 📦 Requirements
+
+- [XAMPP](https://www.apachefriends.org/) (Apache + MySQL)
+- Web browser
+- Code editor (e.g., VS Code)
+
+### 🧪 Steps
+
+1. **Clone the Repository**
+
+```bash
+git clone https://github.com/urvish2930/Esportnewz-Website.git
+Move Project to XAMPP Directory
+
+bash
 Copy
 Edit
 C:\xampp\htdocs\Esportnewz-Website
@@ -85,22 +108,24 @@ Start XAMPP
 
 Start Apache and MySQL
 
-Import the database
+Import the Database
 
-Go to http://localhost/phpmyadmin
+Visit: http://localhost/phpmyadmin
 
-Create a database (e.g., esportnewz)
+Create a database named esportnewz
 
-Import the .sql file if provided
+Import the provided .sql file (if any)
 
-Visit the site
+Run the Website
+
+Open your browser and go to:
 
 bash
 Copy
 Edit
 http://localhost/Esportnewz-Website/index.html
 🔐 Admin Panel
-Login and navigate to:
+To access the admin dashboard:
 
 bash
 Copy
@@ -108,13 +133,13 @@ Edit
 http://localhost/Esportnewz-Website/admin/admindata.php
 Use it to:
 
-View user registrations
+View registered users
 
-Access contact submissions
+Access contact form submissions
 
 🤝 Contributing
 Contributions are welcome!
-Fork this project, make changes, and submit a pull request.
+Feel free to fork the repo, make improvements, and submit a pull request.
 
 📄 License
 This project is licensed under the MIT License.
@@ -122,13 +147,3 @@ This project is licensed under the MIT License.
 🙋‍♂️ Author
 Urvish Pandya
 GitHub Profile
-
-
-
-
-
-
-
-
-
-
