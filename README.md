@@ -1,7 +1,6 @@
 # 📰 Esportnewz Website
 
 **Esportnewz** is a full-stack eSports news website offering a modern interface, user registration, login system, contact form, and an admin dashboard. Built using HTML, CSS, Bootstrap, JavaScript, PHP, and MySQL (via XAMPP), it provides a dynamic and responsive experience for users and administrators.
-
 ---
 
 ## 🚀 Features
@@ -14,7 +13,6 @@
 - ⚙️ Built using Bootstrap 5 for responsiveness
 
 ---
-
 ## 🛠️ Tech Stack
 
 | Layer         | Technology               |
@@ -24,7 +22,6 @@
 | Database      | MySQL (via XAMPP)        |
 
 ---
-
 ## 📁 Project Structure
 
 Esportnewz-Website/
@@ -46,13 +43,7 @@ Esportnewz-Website/
 ├── process_register.php
 ├── register.php
 └── README.md
-
-yaml
-Copy
-Edit
-
 ---
-
 ## 🖼️ Screenshots
 
 ### 🏠 Homepage  
@@ -81,9 +72,7 @@ Edit
 
 ### 👤 Team Info Page  
 ![Team Page](https://raw.githubusercontent.com/urvish2930/Esportnewz-Website/master/assets/team%20info.png)
-
 ---
-
 ## ⚙️ How to Run Locally
 
 ### 📦 Requirements
@@ -96,13 +85,9 @@ Edit
 
 1. **Clone the Repository**
 
-```bash
 git clone https://github.com/urvish2930/Esportnewz-Website.git
 Move Project to XAMPP Directory
 
-bash
-Copy
-Edit
 C:\xampp\htdocs\Esportnewz-Website
 Start XAMPP
 
@@ -119,17 +104,10 @@ Import the provided .sql file (if any)
 Run the Website
 
 Open your browser and go to:
-
-bash
-Copy
-Edit
 http://localhost/Esportnewz-Website/index.html
+
 🔐 Admin Panel
 To access the admin dashboard:
-
-bash
-Copy
-Edit
 http://localhost/Esportnewz-Website/admin/admindata.php
 Use it to:
 
@@ -144,6 +122,8 @@ Feel free to fork the repo, make improvements, and submit a pull request.
 📄 License
 This project is licensed under the MIT License.
 
-🙋‍♂️ Author
-Urvish Pandya
-GitHub Profile
+## 🙋 Author
+
+**Urvish Pandya**  
+[GitHub Profile](https://github.com/urvish2930)
+
